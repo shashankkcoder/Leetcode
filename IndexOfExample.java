@@ -7,3 +7,4 @@ public class IndexOfExample {
         System.out.println(index1 + " " + index12  + "" + index3 );
     }
  }
+ 
